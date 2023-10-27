@@ -18,4 +18,3 @@ Para executar este projeto, siga as etapas de instalação para cada um dos comp
 
 Alamofire: Instruções para instalar o Alamofire via CocoaPods, Carthage ou Swift Package Manager.
 
-SwiftUI: Se você não está familiarizado com o SwiftUI,
