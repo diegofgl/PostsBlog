@@ -13,8 +13,5 @@ PostListView: Uma visão SwiftUI que exibe uma lista de postagens obtidas do Pos
 
 PostDetailView: Outra visão SwiftUI que exibe os detalhes de uma postagem selecionada, incluindo o título e o conteúdo da postagem.
 
-## Instalação
-Para executar este projeto, siga as etapas de instalação para cada um dos componentes mencionados no projeto:
 
-Alamofire: Instruções para instalar o Alamofire via CocoaPods, Carthage ou Swift Package Manager.
 
